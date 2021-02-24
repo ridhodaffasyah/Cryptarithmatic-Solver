@@ -2,11 +2,10 @@
 > Penyelesaian Cryptarithmetic dengan Algoritma Brute Force
 
 ## Deskripsi singkat program
-  Cryptarithmetic (atau cryptarithm) adalah sebuah puzzle penjumlahan di dalam matematika dimana angka diganti dengan huruf. 
-  Setiap angka dipresentasikan dengan huruf yang berbeda. 
-  Deskripsi permainan ini adalah: diberikan sebuah penjumlahan huruf, carilah angka yang merepresentasikan huruf-huruf tersebut.
-  
-  -NOTED = Program ini hanya menerima jumlah operan sebanyak 2, jika lebih dari itu program ini hanya akan meng-output isi file nya saja, tidak mencari solusinya.
+Cryptarithmetic (atau cryptarithm) adalah sebuah puzzle penjumlahan di dalam matematika dimana angka diganti dengan huruf. 
+Setiap angka dipresentasikan dengan huruf yang berbeda. 
+Deskripsi permainan ini adalah: diberikan sebuah penjumlahan huruf, carilah angka yang merepresentasikan huruf-huruf tersebut.  
+- NOTED = Program ini hanya menerima jumlah operan sebanyak 2, jika lebih dari itu program ini hanya akan meng-output isi file nya saja, tidak mencari solusinya.
  
 ## Requirement program dan instalasi
   Diperlukan IDE yang bisa membaca bahasa C++ (CodeBloks, VSCode, dll)
